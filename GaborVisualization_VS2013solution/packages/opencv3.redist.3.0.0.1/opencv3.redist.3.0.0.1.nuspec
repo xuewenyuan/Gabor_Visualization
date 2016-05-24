@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>opencv3.redist</id>
+    <version>3.0.0.1</version>
+    <title>OpenCV3 Redist</title>
+    <authors>itseez</authors>
+    <owners>itseez</owners>
+    <licenseUrl>http://opensource.org/licenses/bsd-license.php</licenseUrl>
+    <projectUrl>http://opencv.org/</projectUrl>
+    <iconUrl>http://opencvlibrary.svn.sourceforge.net/viewvc/opencvlibrary/trunk/opencv/doc/opencv-logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Redistributable components for package 'opencv3'. This package should only be installed as a dependency. 
+(This is not the package you are looking for).</description>
+    <summary>Redistributable components for for package 'opencv3'</summary>
+    <releaseNotes>Release of OpenCV 3.0.0 libraries, including contrib. Built only for vc12, with OpenMP, AVX, as DLLs, against a dynamic CRT.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>native CoApp nativepackage</tags>
+  </metadata>
+</package>
