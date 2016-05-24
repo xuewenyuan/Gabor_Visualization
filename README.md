@@ -1,2 +1,5 @@
 # Gabor_Visualization
-contain 4 projects for Gabor Filter visualization. Three of them is in one solution created by VS2013, and one is written by Matlab.
+The documents folder contains some papers to help understand Gabor Filter.  
+There are 3 projects for Gabor Filter visualization. All of them is in one solution created by VS2013, depending OpenCV.  
+And there is another prioject for Gabor Filter visualization called [Gabor Filetr GUI] [id]，which written by Matlab.  
+[id]: http://cn.mathworks.com/matlabcentral/fileexchange/30107-gabor-filetr-gui?s_tid=srchtitle
